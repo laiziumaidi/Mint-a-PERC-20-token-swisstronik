@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x014B954aB0b6bdF882eB88DC15C4789F00D377ab
 ```
 
 ## Steps
@@ -75,8 +75,8 @@ npm run transfer
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+github : [Mnuralim](https://github.com/laiziumaidi)
+twitter : @lvayaflishaidi
+telegram : @lvanyaflishaidi
 
-0xCd825ae0335190f4c8882DF16FB0577d478b3898
+0x014B954aB0b6bdF882eB88DC15C4789F00D377ab
